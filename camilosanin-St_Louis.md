@@ -5,7 +5,10 @@
 - Missouri Botanical Garden
 
 ### Fun Facts
--mmmmm
+- mmmmm
 
 ### Places to eat
--Salt & Smoke
+- Salt & Smoke
+
+###Weather
+- Unpredictable
