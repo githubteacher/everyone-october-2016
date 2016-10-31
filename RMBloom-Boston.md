@@ -6,3 +6,6 @@
 
 ### Fun Facts
 - More colleges than you can shake a stick at!
+
+### Places to Eat
+- Legal Seafood
