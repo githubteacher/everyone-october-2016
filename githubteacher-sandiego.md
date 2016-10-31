@@ -9,3 +9,7 @@
 
 ### Places to Eat
 - City Tacos
+
+### Weather
+- Somehow it is rainy.
+
