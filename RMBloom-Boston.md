@@ -2,16 +2,16 @@
 
 ### Places to Visit
 - Union Oyster House
-- Ye Olde State House
+- Ye Barf State House
 
 ### Fun Facts
-- More colleges than you can shake a stick at!
+- More coeds than you can shake a stick at!
 
 ### Places to Eat
-- Legal Seafood
-- The No Name Restaurant
+- Legal Seefood
+- The Elephant Walk
 
 ### Weather
-- Hey, what do ya want ... it's New England
+- Rain!
 
 ### Random
