@@ -2,7 +2,7 @@
 
 ### Places to Visit
 - National Arts Centre
-- Parliament buildings
+- Parliament Hill
 
 ### Fun Facts
-- Its Halloween
+- It's Halloween, go on a haunted walk in the city!
