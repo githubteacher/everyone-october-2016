@@ -8,8 +8,7 @@
 - Buckeye State..!!
 
 ### Places to Eat
-- Easton Town Center
-- North Market
+-s North Market
 - Polaris Pkway
 
 ### Weather
