@@ -3,7 +3,7 @@
 ### Places to visit
  - Albert Dock
  - Commercial district and cultural quarter
- - Speke Tudot Town Hall
+ - Speke Tudor Town Hall
 
 ### Fun Facts
- - The Beatles are from here 
+ - The Beatles are from here
