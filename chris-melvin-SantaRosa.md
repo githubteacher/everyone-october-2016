@@ -1,7 +1,10 @@
 # Santa Rosa, Laguna
 
 ### Places to Visit
-Enchanted Kingdom
-Nuvali 
+-Enchanted Kingdom
+-Nuvali
+
 ### Fun Facts
-Melvin Was born here
+-Melvin Was born here
+### Places to Eat
+-Paseo De Santa Rosa
