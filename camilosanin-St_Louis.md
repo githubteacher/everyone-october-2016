@@ -6,3 +6,6 @@
 
 ### Fun Facts
 -mmmmm
+
+### Places to eat
+-Salt & Smoke
