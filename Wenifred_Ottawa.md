@@ -6,3 +6,7 @@
 
 ### Fun Facts
 - It's Halloween, go on a haunted walk in the city!
+
+### Weather
+- It's cloudy but a nice fall day.
+
