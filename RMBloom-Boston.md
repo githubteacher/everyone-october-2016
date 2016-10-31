@@ -9,3 +9,4 @@
 
 ### Places to Eat
 - Legal Seafood
+- The No Name Restaurant
