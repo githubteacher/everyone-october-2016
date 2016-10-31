@@ -1,5 +1,7 @@
 # Chicago, IL
 
-### Seattle
+### Places to visit
+- Lakefront
 
-### DC is haunted
+### Fun fact
+- The city is haunted
