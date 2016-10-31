@@ -10,3 +10,7 @@
 ### Places to Eat
 - El Saito
 - Handlebar
+
+### Weather
+Sunny and cool
+
