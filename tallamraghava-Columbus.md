@@ -11,3 +11,7 @@
 - Easton Town Center
 - Sawmill Road
 - Polaris Pkway
+
+### Weather
+- Sunshine & Shady. :beer:
+
