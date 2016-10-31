@@ -1,16 +1,17 @@
 # San Diego, CA
 
 ### Places to Visit
-- Balboa Park
-- Coronado Island
+- South Park
+- Five
 
 ### Fun Facts
-- Next week is :beer: Week!
+- Four
 
 ### Places to Eat
-- City Tacos
+- Three
 
 ### Weather
-- Somehow it is rainy.
+- Two
 
 ### RANDOM
+- One
