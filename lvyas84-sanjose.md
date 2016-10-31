@@ -6,3 +6,7 @@
 
 ### Fun Facts
 - Next week our time changes
+
+### Places to Eat
+- Curry Up Now
+- Patxi's Pizza
