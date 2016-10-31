@@ -9,5 +9,8 @@
 ### Place to eat
 -Appetit
 
+### Weather
+-snow
+
 ### Work
 -school
