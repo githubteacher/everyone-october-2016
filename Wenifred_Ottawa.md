@@ -9,5 +9,3 @@
 
 ### Weather
 - It's cloudy but a nice fall day.
-
-### Random
