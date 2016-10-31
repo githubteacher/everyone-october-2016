@@ -1,19 +1,17 @@
 #Liverpool, UK
 
 ### Places to visit
- - Albert Dock
- - Commercial district and cultural quarter
- - Speke Tudor Town Hall
+ - New York
 
 ### Fun Facts
- - The Beatles are from here
+ - The Monkeys are from here
 
 # Places to Eat
- - Fly in the Loaf
- - [insert name of restaurant here...]
+ - McDonalds
+ - Pizza Hut
 
 ## Weather
- - Overcast, often
+ - Rain
 
 ## Random
- - On the up.
+ - On the left.
