@@ -5,4 +5,12 @@
 - Missouri Botanical Garden
 
 ### Fun Facts
--mmmmm
+- mmmmm
+
+### Places to eat
+- Salt & Smoke
+
+###Weather
+- Unpredictable
+
+### Random?
