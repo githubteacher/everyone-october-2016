@@ -6,3 +6,7 @@
 
 ### Fun Facts
 - AKA American Riveria
+
+### Places to Eat
+- El Saito
+- Handlebar
