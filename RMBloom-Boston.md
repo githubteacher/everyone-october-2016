@@ -10,3 +10,7 @@
 ### Places to Eat
 - Legal Seafood
 - The No Name Restaurant
+
+### Weather
+- Hey, what do ya want ... it's New England
+
