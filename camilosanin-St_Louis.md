@@ -3,14 +3,16 @@
 ### Places to Visit
 
 - Missouri Botanical Garden
+- New Update
 
 ### Fun Facts
-- mmmmm
+- Two
+- Three
 
 ### Places to eat
-- Salt & Smoke
+- Southern
 
 ###Weather
-- Unpredictable
+- Weird
 
 ### Random?
