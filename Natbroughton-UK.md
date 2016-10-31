@@ -6,3 +6,6 @@
 
 ### Fun Facts
 - Next week is :beer: Week!
+
+### Places to Eat
+- City Tacos
