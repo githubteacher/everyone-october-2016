@@ -7,3 +7,11 @@
 
 ### Fun Facts
  - The Beatles are from here
+
+# Places to Eat
+ - Fly in the Loaf
+ - [insert name of restaurant here...]
+
+## Weather
+ - Overcast, often
+
