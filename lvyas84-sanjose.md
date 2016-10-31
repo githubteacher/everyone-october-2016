@@ -10,3 +10,7 @@
 ### Places to Eat
 - Curry Up Now
 - Patxi's Pizza
+
+### Weather
+- Somehow it is rainy
+
