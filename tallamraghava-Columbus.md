@@ -15,3 +15,5 @@
 ### Weather
 - Sunshine & Shady. :beer:
 
+### Random
+- We still have Fall Colors :+1:
